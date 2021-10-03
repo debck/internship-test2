@@ -1,5 +1,3 @@
-Problem statement is defined in the file "Bungee Coding Round.docx". Please refer to this file.
-
 ## HOW TO RUN LOCALLY
 
 * Move to the required folder in the output directory.
